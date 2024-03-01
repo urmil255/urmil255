@@ -38,10 +38,6 @@ May 2023 – Sept 2023
 Beyon Data Solutions, Ahmedabad, India
 Jan 2022 – Aug 2022
 
-### Software Engineer Intern
-Triyaza Healthcare, Ahmedabad, India
-Aug 2021 – Dec 2021
-
 ### Web Developer Intern
 Exposys Data Labs, Banglore, India
 April 2021 – July 2021
