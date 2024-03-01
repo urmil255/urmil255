@@ -25,6 +25,9 @@ VS Code, GitHub, Jira, Eclipse, Android Studio, Figma, Postman, Jenkins
 ### Databases:
 MySQL, Oracle, SQL Server, MongoDB, SQLite, Firebase
 
+### Data Visualization:
+Tableau, Power BI, AWS QuickSight, Google Analytics, Seaborn, Matplotlib
+
 ## Work Experience
 
 ### Full Stack Engineer Intern
