@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-# Welcome to Urmil Trivedi's GitHub Profile!
-
 ## About Me
 
 I am a passionate and dedicated software engineer with a strong background in computer science and software engineering. I love building scalable and high-performance web applications, and I am constantly learning and exploring new technologies to improve my skills.
