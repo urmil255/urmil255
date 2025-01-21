@@ -30,17 +30,17 @@ Tableau, Power BI, AWS QuickSight, Google Analytics, Seaborn, Matplotlib
 
 ## Work Experience
 
-### Full Stack Engineer Intern
-All It Solutions, Mount Laurel, NJ
-May 2023 – Sept 2023
+### Software Engineer
+BNY Mellon
+June 2024 – Present
 
-### Software Developer
-Beyon Data Solutions, Ahmedabad, India
-Jan 2022 – Aug 2022
+### Software Engineer
+Northern Trust
+Jan 2024 – May 2024
 
-### Web Developer Intern
-Exposys Data Labs, Banglore, India
-April 2021 – July 2021
+### Software Engineer
+Hexaware Technologies,
+March 2020 – July 2022
 
 ## Academic Projects
 
