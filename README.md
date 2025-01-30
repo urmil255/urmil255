@@ -35,7 +35,7 @@ BNY Mellon
 June 2024 – Present
 
 ### Software Engineer
-Northern Trust
+MTA(NEW YORK CITY TRANSIT)
 Jan 2024 – May 2024
 
 ### Software Engineer
