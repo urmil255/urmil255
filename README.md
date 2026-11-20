@@ -24,7 +24,7 @@ security issues that dependency and code scans surface.
 ## Open source
 
 - **pac4j**: concurrency fix for multi-tenant Azure AD ID-token validation, with a regression test
-  *(PR link coming)*
+  *(PR link https://github.com/pac4j/pac4j/pull/4140, https://github.com/pac4j/pac4j/pull/4139)*
 - Researching token-validation edge cases in Java and Node.js auth libraries, with
   responsible, private disclosure
 
